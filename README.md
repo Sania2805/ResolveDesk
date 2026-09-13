@@ -1,4 +1,4 @@
-# ResolveAI
+# ResolveDesk
 > **AI-Powered IT Service Desk & Ticket Resolution Assistant**
 
 ResolveAI is an intelligent, full-stack IT service desk triage and auto-resolution platform powered by Google Gemini. It automatically analyzes end-user support tickets, classifies category and priority, computes confidence scores, recommends safe step-by-step troubleshooting procedures, and determines whether an issue can be safely auto-resolved or must be routed to specialized IT engineering teams.
